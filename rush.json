@@ -415,11 +415,11 @@
     //   "tags": [ "frontend-team" ]
     // },
     // 
-    // {
-    //   "packageName": "my-toolchain",
-    //   "projectFolder": "tools/my-toolchain",
-    //   "reviewCategory": "tools",
-    //   "tags": [ "tools" ]
-    // }
+    {
+      "packageName": "utils",
+      "projectFolder": "tools/utils",
+      "reviewCategory": "tools",
+      "tags": [ "tools" ]
+    }
   ]
 }
